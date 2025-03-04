@@ -46,7 +46,7 @@
 <h2>🔗 How to View the Website</h2>
 
 <p>
- Visit: <a href="kebikacurry.com"><b>Click Here</b></a> 
+ Visit: <a href="https://kebikacurry.com/"><b>Click Here</b></a> 
   
 </p>
 <p>
